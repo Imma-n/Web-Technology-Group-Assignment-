@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F1B2D"/>
+      <stop offset="100%" stop-color="#1C2F4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <g transform="translate(0,0)">
+    <path d="M68,291 L8,291 L8,331 L-32,331" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="68" cy="291" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M253,230 L313,230 L313,230 L353,230" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="253" cy="230" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M107,48 L167,48 L167,8 L207,8" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="107" cy="48" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M221,1 L221,1 L221,41 L261,41" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="221" cy="1" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M369,117 L369,117 L369,77 L409,77" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="369" cy="117" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M15,11 L-45,11 L-45,11 L-85,11" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="15" cy="11" r="3" fill="#00A8CC" opacity="0.5"/>
+  </g>
+  <g transform="translate(700,150) scale(2.2)">
+    <path d="M28,46 L-32,46 L-32,86 L-72,86" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="28" cy="46" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M376,157 L436,157 L436,157 L396,157" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="376" cy="157" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M310,18 L310,18 L310,18 L270,18" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="310" cy="18" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M220,201 L220,201 L220,201 L260,201" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="220" cy="201" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M278,227 L278,227 L278,267 L238,267" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="278" cy="227" r="3" fill="#00A8CC" opacity="0.5"/>
+<path d="M14,186 L74,186 L74,226 L114,226" stroke="#00A8CC" stroke-width="2" fill="none" opacity="0.35"/>
+<circle cx="14" cy="186" r="3" fill="#00A8CC" opacity="0.5"/>
+  </g>
+  <rect x="480" y="220" width="240" height="160" rx="10" fill="none" stroke="#00A8CC" stroke-width="2" opacity="0.6"/>
+  <rect x="510" y="250" width="180" height="14" rx="3" fill="#00A8CC" opacity="0.5"/>
+  <rect x="510" y="275" width="140" height="14" rx="3" fill="#FF6B35" opacity="0.5"/>
+  <rect x="510" y="300" width="160" height="14" rx="3" fill="#00A8CC" opacity="0.3"/>
+  <text x="600" y="420" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif" font-weight="700" font-size="30" fill="#F5F7FA">Hardware &#183; Software &#183; Networking &#183; Support</text>
+</svg>
