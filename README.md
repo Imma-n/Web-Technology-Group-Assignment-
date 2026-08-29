@@ -16,11 +16,11 @@ HTML & CSS website built for the "Practical Assignment: Company Website Using HT
 Ordered list, unordered list, table, hyperlinks, images, email link (`mailto:`), telephone link (`tel:`), and a Google Maps link/embed — more than the 5 required.
 
 ## Group Members
-Emmanuel Narfo 26104270
-Kwabena Sarpong Mante 26104310
-Maxlyn Fordjour Agyemang 26104273
-Jephthah Akogyeram Sowah 26104301
-Bashiru Zidane 26104312
+Emmanuel Narfo - 26104270
+Kwabena Sarpong Mante - 26104310
+Maxlyn Fordjour Agyemang - 26104273
+Jephthah Akogyeram Sowah - 26104301
+Bashiru Zidane - 26104312
 Boateng Yann 
 Bless Amponsah
-Timmy
+Timilehin. A - 26103404
